@@ -1,0 +1,1107 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    font-family: ;
+
+}
+h1,h2,h3,h4,h5,h6{
+
+    font-size: 16px;
+    line-height: 26px;
+
+}
+a,a:hover{
+    text-decoration: none;
+}
+.header-section{
+    width: 100%;
+    background-image: url("../images/bg1.png");
+    background-position: center top  no-repeat;
+    background-size: cover;
+    
+    
+   
+} 
+.bg-light {
+    /* --bs-bg-opacity: 1; */
+    background-color: transparent !important;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: #fff;
+}
+.navbar-light .navbar-nav .nav-link{
+   font-size: 16px;
+   line-height: 26px;
+   font-weight: 600;
+   text-transform: capitalize;
+   margin-right: 15px;
+   color: #fff;
+   text-align: center;
+}
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link{
+    
+    color:#ff3150
+}
+
+img, svg {
+    
+    vertical-align: middle;
+    /* width: 1px; */
+}
+
+
+.button .btn {
+    padding: 4px 28px;
+    background: #fff;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    text-transform: capitalize;
+    border-radius: 25px;
+    color: #000;
+
+}
+ 
+.banner{
+    width: 100%;
+    padding: 100px 0px;
+    text-align: center;
+
+}
+.banner img{
+    width: 100%;
+}
+.banner p{
+    font-size: 35px;
+    line-height: 45px;
+    font-weight: 500;
+    color: #a8b9c0;
+    margin-top: 20px;
+}
+.buton .btn-light{
+    padding: 4px 25px;
+    margin: 75px 0px 0px 0px; 
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    text-transform: capitalize;
+    border-radius: 25px;
+    color: #000;
+   
+
+}
+.header-section .btn-light:hover, .header-section .btn-light:focus{
+    background: #ff3150;
+    color:#fff
+}
+.little{
+    width: 100%;
+    padding: 100px 0px;
+    text-align: center;
+}
+.little h4{
+    font-size: 26px;
+    line-height: 36px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+
+}
+.little p{
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    color: #ff3150;
+    padding: 0px;
+
+}
+
+
+.little .write p{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: #acb8c0;
+    padding: 40px 250px 0px 250px;
+    
+    
+}
+.little .hand {
+    margin-right: 25px;
+    
+}
+
+.little .hand .img-iner{
+   
+    position: relative;
+    left: 18.5%;
+    top: -18px;
+  
+}
+/* work start */
+.work{
+    width: 100%;
+    padding: 80px 0px;
+    background: #eee;
+   
+}
+.work .main-blog{
+    width: 100%;
+   
+}
+.work .local{
+    width: 100%;
+    padding-top: 60px;
+    text-align: center;
+}
+.work .comon{
+    width: 100%;
+    text-align: center;
+    padding-top: 15px;
+}
+.work .comon h4{
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #000;
+   
+}
+.work .comon p{
+    font-size: 16px;
+    line-height: 35px;
+    padding: 40px 20px 100px 20px;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: #82929e;
+}
+.work:hover .main-blog{
+    background-color: #fff;
+    
+}
+
+/* work end*/
+.clint{
+    width: 100%;
+    background: url("../images/bg2.png");
+    background-position:  center top no-repeat;
+    background-size: cover;
+}
+.clint .title{
+    width: 100%;
+    padding: 80px 0px;
+    text-align: center;
+}
+.clint .title h4{
+    font-size: 35px;
+    line-height: 45px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #fff;
+}
+.clint .title p{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: #ff3150;
+}
+.title .clint-iner{
+    width: 100%;
+    padding: 60px 0px;
+}
+.title .clint-iner img{
+    margin-right: 95px;
+}
+.recent{
+    width: 100%;
+    padding: 80px 40px;
+    text-align: center;
+}
+.recent .title h4{
+    font-size: 35px;
+    line-height: 45px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #111;
+}
+.recent .title p{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    margin-bottom: -2px;
+    text-transform: capitalize;
+    color: #ff3150;
+}
+.recent .clint-work{
+    width: 100%;
+    padding: 100px 0px;
+}
+.start-menu{
+    width: 100%;
+    background: url("../images/bg3.png");
+    background-position: center top no-repeat;
+    background-size:cover
+}
+.start-menu .title{
+    width: 100%;
+    padding: 80px 40px;
+    text-align: center;
+}
+.start-menu .title h4{
+    font-size: 35px;
+    line-height: 45px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #fff;
+}
+.start-menu .title p{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    margin-bottom: -20px;
+    text-transform: uppercase;
+    color: #ff3150;
+}
+.start-menu .buton .btn-light:hover, .start-menu .buton .btn-light:focus{
+    background: #ff3150;
+    color:#fff;
+}
+.red {
+    width: 100%;
+    padding: 80px 40px;
+   
+}
+.red .title{
+    width: 100%;
+    text-align: center;
+}
+.red .title h4{
+    font-size: 35px;
+    line-height: 45px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #000;
+}
+.red .title p{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    margin-bottom: -3px;
+    text-transform: uppercase;
+    color: #ff3150;
+}
+.red-log{
+    width: 100%;
+    padding: 100px 0px;
+    margin: opx 40px 0px 40px;
+}
+.red .buton{
+    width: 100%;
+    text-align: center;
+}
+
+.red .buton .btn-light:hover, .red .buton .btn-light:focus{
+    background: #ff3150;
+    color:#fff;
+}
+.sub{
+    width: 100%;
+    padding: 80px 0px;
+    background: #ff3150;
+}
+.subscribe{
+    width: 100%;
+   
+}
+.subscribe a {
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 600;
+    color: #fff;
+}
+.buton{
+    width: 100%;
+}
+.buton .btn{
+    padding: 4px 28px;
+    background: #fff;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    text-transform: capitalize;
+    border-radius: 25px;
+    color: #000;
+}
+.input-box{
+    width: 100%;
+    overflow: hidden;
+    font-size: 16px;
+    font-weight: 700;
+    border-bottom: 1px solid #fff;
+}
+.sub .buton .btn:hover{
+    background: #19283f;
+    color: #fff;
+}
+.input-box input{
+    border: none;
+    outline: none;
+    background: none;
+    font-size: 16px;
+    width: 80%;
+    color: #f0f8fb;
+
+}
+.footer{
+    width: 100%;
+    padding: 80px 40px;
+    background: #19283f;
+}
+.foot p{
+    font-size: 12px;
+    line-height: 30px;
+    padding-top: 40px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #82929e;
+    
+}
+.foot p span{
+    color: #ff3150;
+}
+/* poot start */
+.poot{
+    width: 100%;
+}
+.poot h2{
+    font-size: 16px;
+    line-height: 26px;
+    
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #fff;
+}
+.poot ul{
+    padding: 0px;
+}
+.poot ul li{
+    list-style: none;
+    padding-top: 14px;
+}
+.poot ul li a{
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 23px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #82929e;
+
+}
+/* poot end */
+/* pot start */
+.pot{
+    width: 100%;
+}
+.pot h2{
+    font-size: 16px;
+    line-height: 26px;
+    
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #fff;
+}
+.pot ul{
+    padding: 0px;
+}
+.pot ul li{
+    list-style: none;
+    padding-top: 14px;
+}
+.pot ul li a{
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 23px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #82929e;
+
+}/* pot end*/
+/* pooot start */
+.pooot{
+    width: 100%;
+}
+.pooot h2{
+    font-size: 16px;
+    line-height: 26px;
+    
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #fff;
+}
+.pooot p{
+    font-size: 13px;
+    line-height: 35px;
+    padding-top: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #82929e;
+}
+.social .fab{
+   font-size: 25px;
+   color: #fff;
+   margin-right: 20px;
+   margin-top: 10px;
+   
+}
+.fab:hover{
+    width: 45px;
+    height: 45px;
+    padding: 10px;
+     border-radius: 50%;
+     color: #fff;
+    background-color: rgb(248, 86, 86);
+}
+
+
+/* pooot end */
+
+/* reponsive goes here */
+/* mini phone start */
+@media ( min-width: 279px ) and ( max-width: 319px ){
+    /* mini start */
+    .header-section{
+        width: 100%;
+        background-image: url("../images/bg1.png");
+        background-position: center top  no-repeat;
+        background-size: cover;
+        
+        
+       
+    } 
+    .bg-light {
+        /* --bs-bg-opacity: 1; */
+        background-color: transparent !important;
+    }
+    .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+        color: #fff;
+    }
+    .navbar-light .navbar-nav .nav-link{
+       font-size: 16px;
+       line-height: 26px;
+       font-weight: 600;
+       text-transform: capitalize;
+       margin-right: 15px;
+       color: #fff;
+       text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link{
+        
+        color:#ff3150
+    }
+    
+    img, svg {
+        
+        vertical-align: middle;
+        /* width: 1px; */
+    }
+    
+    
+    .button .btn {
+        padding: 4px 28px;
+        background: #fff;
+        font-size: 14px;
+        line-height: 24px;
+        font-weight: 400;
+        text-transform: capitalize;
+        border-radius: 25px;
+        color: #000;
+    
+    }
+     
+    .banner{
+        width: 100%;
+        padding: 100px 0px;
+        text-align: center;
+    
+    }
+    .banner img{
+        width: 100%;
+    }
+    .banner p{
+        font-size: 35px;
+        line-height: 45px;
+        font-weight: 500;
+        color: #a8b9c0;
+        margin-top: 20px;
+    }
+    .buton .btn-light{
+        padding: 4px 25px;
+        margin: 75px 0px 0px 0px; 
+        font-size: 14px;
+        line-height: 24px;
+        font-weight: 400;
+        text-transform: capitalize;
+        border-radius: 25px;
+        color: #000;
+       
+    
+    }
+    .header-section .btn-light:hover, .header-section .btn-light:focus{
+        background: #ff3150;
+        color:#fff
+    }
+    .little{
+        width: 100%;
+        padding: 100px 0px;
+        text-align: center;
+    }
+    .little h4{
+        font-size: 26px;
+        line-height: 36px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    
+    }
+    .little p{
+        font-size: 16px;
+        line-height: 26px;
+        font-weight: 400;
+        text-transform: capitalize;
+        letter-spacing: 1px;
+        color: #ff3150;
+        padding: 0px;
+    
+    }
+    
+    
+    .little .write p{
+        font-size: 14px;
+        line-height: 24px;
+        font-weight: 400;
+        text-transform: capitalize;
+        color: #acb8c0;
+        padding: 40px 250px 0px 250px;
+        
+        
+    }
+    .little .hand {
+        margin-right: 25px;
+        
+    }
+    
+    .little .hand .img-iner{
+       
+        position: relative;
+        left: 18.5%;
+        top: -18px;
+      
+    }
+
+.little .write p {
+        font-size: 14px;
+        line-height: 24px;
+        font-weight: 400;
+        text-transform: capitalize;
+        color: #acb8c0;
+        padding: 20px 10px 0px 10px;
+        
+    }
+    .title .clint-iner img {
+        margin-right: 13px;
+    }
+    .red .buton{
+        padding: 0px;
+    }
+    .social .fab {
+        font-size: 25px;
+        color: #fff;
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+    .buton .btn-light {
+        padding: 4px 25px;
+        margin: 0px 0px 0px 0px;
+        font-size: 14px;
+        line-height: 24px;
+        font-weight: 400;
+        text-transform: capitalize;
+        border-radius: 25px;
+        color: #000;
+    }
+        .buton{
+            padding-top: 10px;
+            margin-top: 20px;
+        }
+        .navbar-light .navbar-toggler {
+            color: #f0f0f0;
+            border-color: #f0f0f0;
+        }
+      
+}
+    /* mini end*/
+
+
+/* most of the phone */
+@media ( min-width: 320px ) and ( max-width: 480px ){
+ /* most start */
+ .header-section{
+    width: 100%;
+    background-image: url("../images/bg1.png");
+    background-position: center top  no-repeat;
+    background-size: cover;
+    
+    
+   
+} 
+.navbar-light .navbar-toggler {
+    color: #f0f0f0;
+    border-color: #f0f0f0;
+}
+.bg-light {
+    /* --bs-bg-opacity: 1; */
+    background-color: transparent !important;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: #fff;
+}
+.navbar-light .navbar-nav .nav-link{
+   font-size: 16px;
+   line-height: 26px;
+   font-weight: 600;
+   text-transform: capitalize;
+   margin-right: 15px;
+   color: #fff;
+   text-align: center;
+}
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link{
+    
+    color:#ff3150
+}
+
+img, svg {
+    
+    vertical-align: middle;
+    /* width: 1px; */
+}
+
+
+.button .btn {
+    padding: 4px 28px;
+    background: #fff;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    text-transform: capitalize;
+    border-radius: 25px;
+    color: #000;
+
+}
+ 
+.banner{
+    width: 100%;
+    padding: 100px 0px;
+    text-align: center;
+
+}
+.banner img{
+    width: 100%;
+}
+.banner p{
+    font-size: 35px;
+    line-height: 45px;
+    font-weight: 500;
+    color: #a8b9c0;
+    margin-top: 20px;
+}
+.buton .btn-light{
+    padding: 4px 25px;
+    margin: 75px 0px 0px 0px; 
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    text-transform: capitalize;
+    border-radius: 25px;
+    color: #000;
+   
+
+}
+.header-section .btn-light:hover, .header-section .btn-light:focus{
+    background: #ff3150;
+    color:#fff
+}
+.little{
+    width: 100%;
+    padding: 100px 0px;
+    text-align: center;
+}
+.little h4{
+    font-size: 26px;
+    line-height: 36px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+
+}
+.little p{
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    color: #ff3150;
+    padding: 0px;
+
+}
+
+
+.little .write p{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: #acb8c0;
+    padding: 40px 250px 0px 250px;
+    
+    
+}
+.little .hand {
+    margin-right: 25px;
+    
+}
+
+.little .hand .img-iner{
+   
+    position: relative;
+    left: 18.5%;
+    top: -18px;
+  
+}
+
+
+
+
+
+
+ .little .write p {
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: #acb8c0;
+    padding: 20px 40px 0px 40px;
+    
+}
+
+.buton{
+    padding-top: 10px;
+
+
+    /* most end*/
+    
+}
+/* low resulation phone */
+@media ( min-width: 481px ) and ( max-width: 767px ){
+     /* low start */
+     .header-section{
+        width: 100%;
+        background-image: url("../images/bg1.png");
+        background-position: center top  no-repeat;
+        background-size: cover;
+        
+        
+       
+    } 
+    .navbar-light .navbar-toggler {
+        color: #f0f0f0;
+        border-color: #f0f0f0;
+    }
+    .bg-light {
+        /* --bs-bg-opacity: 1; */
+        background-color: transparent !important;
+    }
+    .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+        color: #fff;
+    }
+    .navbar-light .navbar-nav .nav-link{
+       font-size: 16px;
+       line-height: 26px;
+       font-weight: 600;
+       text-transform: capitalize;
+       margin-right: 15px;
+       color: #fff;
+       text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link{
+        
+        color:#ff3150
+    }
+    
+    img, svg {
+        
+        vertical-align: middle;
+        /* width: 1px; */
+    }
+    
+    
+    .button .btn {
+        padding: 4px 28px;
+        background: #fff;
+        font-size: 14px;
+        line-height: 24px;
+        font-weight: 400;
+        text-transform: capitalize;
+        border-radius: 25px;
+        color: #000;
+    
+    }
+     
+    .banner{
+        width: 100%;
+        padding: 100px 0px;
+        text-align: center;
+    
+    }
+    .banner img{
+        width: 100%;
+    }
+    .banner p{
+        font-size: 35px;
+        line-height: 45px;
+        font-weight: 500;
+        color: #a8b9c0;
+        margin-top: 20px;
+    }
+    .buton .btn-light{
+        padding: 4px 25px;
+        margin: 75px 0px 0px 0px; 
+        font-size: 14px;
+        line-height: 24px;
+        font-weight: 400;
+        text-transform: capitalize;
+        border-radius: 25px;
+        color: #000;
+       
+    
+    }
+    .header-section .btn-light:hover, .header-section .btn-light:focus{
+        background: #ff3150;
+        color:#fff
+    }
+    .little{
+        width: 100%;
+        padding: 100px 0px;
+        text-align: center;
+    }
+    .little h4{
+        font-size: 26px;
+        line-height: 36px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    
+    }
+    .little p{
+        font-size: 16px;
+        line-height: 26px;
+        font-weight: 400;
+        text-transform: capitalize;
+        letter-spacing: 1px;
+        color: #ff3150;
+        padding: 0px;
+    
+    }
+    
+    
+    .little .write p{
+        font-size: 14px;
+        line-height: 24px;
+        font-weight: 400;
+        text-transform: capitalize;
+        color: #acb8c0;
+        padding: 40px 250px 0px 250px;
+        
+        
+    }
+    .little .hand {
+        margin-right: 25px;
+        
+    }
+    
+    .little .hand .img-iner{
+       
+        position: relative;
+        left: 18.5%;
+        top: -18px;
+      
+    }
+
+
+
+
+
+
+
+     .title .clint-iner img {
+        margin-right: 13px;
+    }
+    .social .fab {
+        font-size: 25px;
+        color: #fff;
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+    /* low end*/
+}
+/* tablet & others */
+@media ( min-width: 768 ) and ( max-width: 1024px ){
+     /* tablet start */
+     .header-section{
+        width: 100%;
+        background-image: url("../images/bg1.png");
+        background-position: center top  no-repeat;
+        background-size: cover;
+        
+        
+       
+    } 
+    .navbar-light .navbar-toggler {
+        color: #f0f0f0;
+        border-color: #f0f0f0;
+    }
+    .bg-light {
+        /* --bs-bg-opacity: 1; */
+        background-color: transparent !important;
+    }
+    .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+        color: #fff;
+    }
+    .navbar-light .navbar-nav .nav-link{
+       font-size: 16px;
+       line-height: 26px;
+       font-weight: 600;
+       text-transform: capitalize;
+       margin-right: 15px;
+       color: #fff;
+       text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link{
+        
+        color:#ff3150
+    }
+    
+    img, svg {
+        
+        vertical-align: middle;
+        /* width: 1px; */
+    }
+    
+    
+    .button .btn {
+        padding: 4px 28px;
+        background: #fff;
+        font-size: 14px;
+        line-height: 24px;
+        font-weight: 400;
+        text-transform: capitalize;
+        border-radius: 25px;
+        color: #000;
+    
+    }
+     
+    .banner{
+        width: 100%;
+        padding: 100px 0px;
+        text-align: center;
+    
+    }
+    .banner img{
+        width: 100%;
+    }
+    .banner p{
+        font-size: 35px;
+        line-height: 45px;
+        font-weight: 500;
+        color: #a8b9c0;
+        margin-top: 20px;
+    }
+    .buton .btn-light{
+        padding: 4px 25px;
+        margin: 75px 0px 0px 0px; 
+        font-size: 14px;
+        line-height: 24px;
+        font-weight: 400;
+        text-transform: capitalize;
+        border-radius: 25px;
+        color: #000;
+       
+    
+    }
+    .header-section .btn-light:hover, .header-section .btn-light:focus{
+        background: #ff3150;
+        color:#fff
+    }
+    .little{
+        width: 100%;
+        padding: 100px 0px;
+        text-align: center;
+    }
+    .little h4{
+        font-size: 26px;
+        line-height: 36px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    
+    }
+    .little p{
+        font-size: 16px;
+        line-height: 26px;
+        font-weight: 400;
+        text-transform: capitalize;
+        letter-spacing: 1px;
+        color: #ff3150;
+        padding: 0px;
+    
+    }
+    
+    
+    .little .write p{
+        font-size: 14px;
+        line-height: 24px;
+        font-weight: 400;
+        text-transform: capitalize;
+        color: #acb8c0;
+        padding: 40px 250px 0px 250px;
+        
+        
+    }
+    .little .hand {
+        margin-right: 25px;
+        
+    }
+    
+    .little .hand .img-iner{
+       
+        position: relative;
+        left: 18.5%;
+        top: -18px;
+      
+    }
+
+
+
+
+
+    /* tablet end*/
+}
+
+
+
+
